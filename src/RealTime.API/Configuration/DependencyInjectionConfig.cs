@@ -8,8 +8,6 @@ public static class DependencyInjectionConfig
     {
         services.AddHttpContextAccessor();
 
-        services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
-
         services.AddScoped<IEventEmitter, EventEmitter>();
 
         return services;
