@@ -7,4 +7,4 @@ Demonstração de como podemos enviar eventos unidirecional via conexão HTTP pa
 - Testar com o Postman que atualmente possui suporte a eventos SSE.
 	
 # Sobre
-Este projeto foi desenvolvido por Anderson Hansen sob [MIT license](LICENSE).
+Este projeto foi desenvolvido por Anderson Hansen.
